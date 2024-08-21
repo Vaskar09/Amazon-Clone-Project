@@ -19,7 +19,7 @@
     height: 50px;
     width: 1005;
     background-size: cover;
-    background-image: url(/PROJECT/amazon.jfif);
+    background-image: url(/amazon.jfif);
 }
 .border{
     border: 1.5px solid transparent;
@@ -120,7 +120,7 @@ span{
 }
 /* Hero_section */
 .hero_section{
-    background-image: url(/PROJECT/box1.jpg);
+    background-image: url(/box1.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
@@ -209,7 +209,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url(/PROJECT/amazon.jfif);
+    background-image: url(/amazon.jfif);
     background-size: cover;
     height: 50px;
     width: 100px; 
